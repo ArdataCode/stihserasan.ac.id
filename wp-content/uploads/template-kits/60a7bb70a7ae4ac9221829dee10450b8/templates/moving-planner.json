@@ -1,0 +1,2088 @@
+{
+    "version": "0.4",
+    "title": "Moving Planner",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "58264754",
+            "settings": {
+                "content_position": "middle",
+                "structure": "20",
+                "background_background": "classic",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/bg_header.png",
+                    "id": 114,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "css_filters_brightness": {
+                    "unit": "px",
+                    "size": 200,
+                    "sizes": []
+                },
+                "css_filters_contrast": {
+                    "unit": "px",
+                    "size": 96,
+                    "sizes": []
+                },
+                "overlay_blend_mode": "screen",
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "0",
+                    "bottom": "5",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "3",
+                    "right": "0",
+                    "bottom": "3",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "accd833"
+                    }
+                ],
+                "__globals__": {
+                    "background_color": "globals\/colors?id=80299c3"
+                }
+            },
+            "elements": [
+                {
+                    "id": "30f2dfab",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "1",
+                            "left": "2",
+                            "isLinked": false
+                        },
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "cdb40a5"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "69ea18dd",
+                            "settings": {
+                                "view": "inline",
+                                "icon_list": [
+                                    {
+                                        "text": "Home",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "8909c29"
+                                    },
+                                    {
+                                        "text": "List Item #2",
+                                        "selected_icon": {
+                                            "value": "fas fa-chevron-right",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "dc019c6",
+                                        "__dynamic__": {
+                                            "text": "[elementor-tag id=\"dedaf1c\" name=\"post-title\" settings=\"%7B%7D\"]"
+                                        }
+                                    }
+                                ],
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "d8d64d4"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "icon_color": "globals\/colors?id=100efa4",
+                                    "text_color": "globals\/colors?id=a291686"
+                                },
+                                "icon_align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "50a42b5d",
+                            "settings": {
+                                "title": "Blog",
+                                "header_size": "h1",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "5dd15ce"
+                                    }
+                                ],
+                                "__dynamic__": {
+                                    "title": "[elementor-tag id=\"f8980ef\" name=\"post-title\" settings=\"%7B%7D\"]"
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=a291686"
+                                },
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "68b37273",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": false
+                        },
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "cdb40a5"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "7bddbfef",
+                            "settings": {
+                                "title": "Let us move you with honesty and greatness.",
+                                "header_size": "h3",
+                                "align": "right",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "4b4c7cd"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=a291686"
+                                },
+                                "__dynamic__": [],
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "5c0a5a89",
+            "settings": {
+                "padding": {
+                    "unit": "em",
+                    "top": "7",
+                    "right": "0",
+                    "bottom": "7",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "3",
+                    "right": "0",
+                    "bottom": "3",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "0",
+                    "bottom": "2",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "db00e95"
+                    }
+                ]
+            },
+            "elements": [
+                {
+                    "id": "2e5c1961",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "8ebd01f"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "5ee05ef8",
+                            "settings": {
+                                "structure": "20",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "75fe2ca"
+                                    }
+                                ]
+                            },
+                            "elements": [
+                                {
+                                    "id": "2996b4c7",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "em",
+                                            "top": "3",
+                                            "right": "3",
+                                            "bottom": "3",
+                                            "left": "3",
+                                            "isLinked": true
+                                        },
+                                        "padding_tablet": {
+                                            "unit": "em",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "em",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "de4b198"
+                                            }
+                                        ]
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "51d90073",
+                                            "settings": {
+                                                "title": "Moving Checklist",
+                                                "header_size": "h6",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "ecf5e3b"
+                                                    }
+                                                ]
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "26331fca",
+                                            "settings": {
+                                                "title": "Moving Checklist Week-by-Week",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "6f37e65"
+                                                    }
+                                                ]
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "5483b136",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "em",
+                                            "top": "3",
+                                            "right": "3",
+                                            "bottom": "3",
+                                            "left": "3",
+                                            "isLinked": true
+                                        },
+                                        "padding_tablet": {
+                                            "unit": "em",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "em",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "7da8f7a"
+                                            }
+                                        ]
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "257112ac",
+                                            "settings": {
+                                                "editor": "<p>Fusce finibus interdum inceptos consectetur vitae luctus eu. Pharetra dui maximus class nascetur volutpat eleifend facilisis adipiscing. Magna mi phasellus facilisis donec tortor consectetuer vel pretium duis.<\/p>",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "a43f0b5"
+                                                    }
+                                                ]
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "2bb52944",
+                                            "settings": {
+                                                "text": "Download checklist",
+                                                "size": "md",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "57052c0"
+                                                    }
+                                                ],
+                                                "selected_icon": {
+                                                    "value": "far fa-file-pdf",
+                                                    "library": "fa-regular"
+                                                },
+                                                "icon_indent": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "80bab1f",
+                            "settings": {
+                                "youtube_url": "https:\/\/www.youtube.com\/watch?v=XHOmBV4js_E",
+                                "vimeo_url": "https:\/\/vimeo.com\/235215203",
+                                "dailymotion_url": "https:\/\/www.dailymotion.com\/video\/x6tqhqb",
+                                "lazy_load": "yes",
+                                "show_image_overlay": "yes",
+                                "image_overlay": {
+                                    "url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/professional-manager-filling-report-while-working-with-mover.jpg",
+                                    "id": 71,
+                                    "alt": "Professional manager filling report while working with mover",
+                                    "source": "library"
+                                },
+                                "aspect_ratio": "219",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "806af6f"
+                                    }
+                                ],
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "5",
+                                    "bottom": "5",
+                                    "left": "5",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "video",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "20db1e7c",
+            "settings": {
+                "structure": "20",
+                "background_background": "classic",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/halftone-pattern-on-a-white-background.jpg",
+                    "id": 519,
+                    "alt": "Halftone pattern on a white background",
+                    "source": "library"
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "padding": {
+                    "unit": "em",
+                    "top": "7",
+                    "right": "0",
+                    "bottom": "7",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "3",
+                    "right": "2",
+                    "bottom": "3",
+                    "left": "2",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "0",
+                    "bottom": "2",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "87c0760"
+                    }
+                ],
+                "reverse_order_mobile": "reverse-mobile",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=b8dc419"
+                }
+            },
+            "elements": [
+                {
+                    "id": "76448b83",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "c01b7b1"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "3d4d4f25",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/document-to-sign-two-young-movers-in-blue-uniform-working-indoors-in-the-room.jpg",
+                                    "id": 84,
+                                    "alt": "Document to sign. Two young movers in blue uniform working indoors in the room",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "px",
+                                    "size": 550,
+                                    "sizes": []
+                                },
+                                "height_mobile": {
+                                    "unit": "px",
+                                    "size": 200,
+                                    "sizes": []
+                                },
+                                "object-fit": "cover",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "5",
+                                    "bottom": "5",
+                                    "left": "5",
+                                    "isLinked": true
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "f3084a9"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "259b3813",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "em",
+                            "top": "3",
+                            "right": "3",
+                            "bottom": "3",
+                            "left": "3",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "c01b7b1"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "6eeea525",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "fas fa-book",
+                                    "library": "fa-solid"
+                                },
+                                "view": "stacked",
+                                "title_text": "1 Month before moving",
+                                "description_text": "",
+                                "position": "left",
+                                "title_size": "h6",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 21,
+                                    "sizes": []
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "2c946b4"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "primary_color": "globals\/colors?id=a291686",
+                                    "secondary_color": "globals\/colors?id=100efa4"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "651ede39",
+                            "settings": {
+                                "title": "Complete the Document & Set Budget",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "13f2c12"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "107e58bd",
+                            "settings": {
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "d6169a4"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "63a502f9",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "Nostra gravida dui a",
+                                        "selected_icon": {
+                                            "value": "fas fa-check-circle",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "056b129"
+                                    },
+                                    {
+                                        "text": "Habitasse praesent natoque etiam",
+                                        "selected_icon": {
+                                            "value": "fas fa-check-circle",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "dc16ffb"
+                                    },
+                                    {
+                                        "text": "Turpis fames egestas sociosqu",
+                                        "selected_icon": {
+                                            "value": "fas fa-check-circle",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "210590f"
+                                    },
+                                    {
+                                        "text": "Consectetuer consequat ultrices erat",
+                                        "selected_icon": {
+                                            "value": "fas fa-check-circle",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "0f737bc"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 7,
+                                    "sizes": []
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "1458452"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "icon_color": "globals\/colors?id=100efa4"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "29364347",
+            "settings": {
+                "structure": "20",
+                "background_background": "classic",
+                "padding": {
+                    "unit": "em",
+                    "top": "7",
+                    "right": "0",
+                    "bottom": "7",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "0",
+                    "bottom": "2",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "acd3b26"
+                    }
+                ],
+                "__globals__": {
+                    "background_color": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "4056c2a5",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "em",
+                            "top": "3",
+                            "right": "3",
+                            "bottom": "3",
+                            "left": "3",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "c01b7b1"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "3199ab8c",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "fas fa-book",
+                                    "library": "fa-solid"
+                                },
+                                "view": "stacked",
+                                "title_text": "2 Weeks before moving",
+                                "description_text": "",
+                                "position": "left",
+                                "title_size": "h6",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 21,
+                                    "sizes": []
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "2c946b4"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "primary_color": "globals\/colors?id=a291686",
+                                    "secondary_color": "globals\/colors?id=100efa4"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "d230904",
+                            "settings": {
+                                "title": "Start Packing Your Stuff.",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "13f2c12"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5a1b2a98",
+                            "settings": {
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "d6169a4"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "79fda12f",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "Nostra gravida dui a",
+                                        "selected_icon": {
+                                            "value": "fas fa-check-circle",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "056b129"
+                                    },
+                                    {
+                                        "text": "Habitasse praesent natoque etiam",
+                                        "selected_icon": {
+                                            "value": "fas fa-check-circle",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "dc16ffb"
+                                    },
+                                    {
+                                        "text": "Turpis fames egestas sociosqu",
+                                        "selected_icon": {
+                                            "value": "fas fa-check-circle",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "210590f"
+                                    },
+                                    {
+                                        "text": "Consectetuer consequat ultrices erat",
+                                        "selected_icon": {
+                                            "value": "fas fa-check-circle",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "0f737bc"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 7,
+                                    "sizes": []
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "1458452"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "icon_color": "globals\/colors?id=100efa4"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "50aab462",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "c01b7b1"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "5cda58f9",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/two-movers-in-uniform-carrying-cardboard-boxes-in-modern-apartment-1.jpg",
+                                    "id": 82,
+                                    "alt": "two movers in uniform carrying cardboard boxes in modern apartment",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "px",
+                                    "size": 500,
+                                    "sizes": []
+                                },
+                                "height_mobile": {
+                                    "unit": "px",
+                                    "size": 200,
+                                    "sizes": []
+                                },
+                                "object-fit": "cover",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "5",
+                                    "bottom": "5",
+                                    "left": "5",
+                                    "isLinked": true
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "f3084a9"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "abdc7b7",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 840,
+                    "sizes": []
+                },
+                "background_background": "classic",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/two-young-movers-in-blue-uniform-working-indoors-in-the-room.jpg",
+                    "id": 76,
+                    "alt": "Two young movers in blue uniform working indoors in the room",
+                    "source": "library"
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.40000000000000002220446049250313080847263336181640625,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "7",
+                    "right": "0",
+                    "bottom": "7",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "dd028b8"
+                    }
+                ],
+                "__globals__": {
+                    "background_color": "globals\/colors?id=f4064cd"
+                }
+            },
+            "elements": [
+                {
+                    "id": "484570d",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "b94cb2f"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "3174c063",
+                            "settings": {
+                                "title": "The way to move. The way to care.\n\n",
+                                "align": "center",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "3628213"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=a291686"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4c047de3",
+                            "settings": {
+                                "align": "center",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "d55264e"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=a291686"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "505ba118",
+                            "settings": {
+                                "text": "Discover More",
+                                "align": "center",
+                                "size": "md",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "2bc1bbf"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "49710aaf",
+            "settings": {
+                "structure": "20",
+                "background_background": "classic",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/halftone-pattern-on-a-white-background.jpg",
+                    "id": 519,
+                    "alt": "Halftone pattern on a white background",
+                    "source": "library"
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "padding": {
+                    "unit": "em",
+                    "top": "7",
+                    "right": "0",
+                    "bottom": "7",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "3",
+                    "right": "2",
+                    "bottom": "3",
+                    "left": "2",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "0",
+                    "bottom": "2",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "87c0760"
+                    }
+                ],
+                "reverse_order_mobile": "reverse-mobile",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=b8dc419"
+                }
+            },
+            "elements": [
+                {
+                    "id": "90251c5",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "c01b7b1"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "523af1ca",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/mover-in-uniform-transporting-cardboard-boxes-on-hand-truck-in-apartment.jpg",
+                                    "id": 58,
+                                    "alt": "mover in uniform transporting cardboard boxes on hand truck in apartment",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "px",
+                                    "size": 475,
+                                    "sizes": []
+                                },
+                                "height_mobile": {
+                                    "unit": "px",
+                                    "size": 200,
+                                    "sizes": []
+                                },
+                                "object-fit": "cover",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "5",
+                                    "bottom": "5",
+                                    "left": "5",
+                                    "isLinked": true
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "f3084a9"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "66b82fcd",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "em",
+                            "top": "3",
+                            "right": "3",
+                            "bottom": "3",
+                            "left": "3",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "c01b7b1"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "196b35a0",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "fas fa-truck-moving",
+                                    "library": "fa-solid"
+                                },
+                                "view": "stacked",
+                                "title_text": "Move out",
+                                "description_text": "",
+                                "position": "left",
+                                "title_size": "h6",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 21,
+                                    "sizes": []
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "2c946b4"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "primary_color": "globals\/colors?id=a291686",
+                                    "secondary_color": "globals\/colors?id=100efa4"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4add3cea",
+                            "settings": {
+                                "title": "Moving In To Your New Home",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "13f2c12"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2e44c4bc",
+                            "settings": {
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "d6169a4"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "e4e0c47",
+                            "settings": {
+                                "text": "Track your shipment",
+                                "size": "md",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "e53cdc2"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "67443822",
+            "settings": {
+                "structure": "20",
+                "background_background": "classic",
+                "padding": {
+                    "unit": "em",
+                    "top": "7",
+                    "right": "0",
+                    "bottom": "7",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "0",
+                    "bottom": "2",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "acd3b26"
+                    }
+                ],
+                "__globals__": {
+                    "background_color": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "4bbf27f3",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "em",
+                            "top": "3",
+                            "right": "3",
+                            "bottom": "3",
+                            "left": "3",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "c01b7b1"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "276a8ab2",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "fas fa-box-open",
+                                    "library": "fa-solid"
+                                },
+                                "view": "stacked",
+                                "title_text": "Move in",
+                                "description_text": "",
+                                "position": "left",
+                                "title_size": "h6",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 21,
+                                    "sizes": []
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "2c946b4"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "primary_color": "globals\/colors?id=a291686",
+                                    "secondary_color": "globals\/colors?id=100efa4"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6abc5027",
+                            "settings": {
+                                "title": "Unpack your stuff",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "13f2c12"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2a1063d",
+                            "settings": {
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "d6169a4"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5653af6a",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "Nostra gravida dui a",
+                                        "selected_icon": {
+                                            "value": "fas fa-check-circle",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "056b129"
+                                    },
+                                    {
+                                        "text": "Habitasse praesent natoque etiam",
+                                        "selected_icon": {
+                                            "value": "fas fa-check-circle",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "dc16ffb"
+                                    },
+                                    {
+                                        "text": "Turpis fames egestas sociosqu",
+                                        "selected_icon": {
+                                            "value": "fas fa-check-circle",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "210590f"
+                                    },
+                                    {
+                                        "text": "Consectetuer consequat ultrices erat",
+                                        "selected_icon": {
+                                            "value": "fas fa-check-circle",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "0f737bc"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 7,
+                                    "sizes": []
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "1458452"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "icon_color": "globals\/colors?id=100efa4"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "efb046e",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "c01b7b1"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "2d667a72",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/two-young-movers-in-blue-uniform-working-indoors-in-the-room.jpg",
+                                    "id": 76,
+                                    "alt": "Two young movers in blue uniform working indoors in the room",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "px",
+                                    "size": 500,
+                                    "sizes": []
+                                },
+                                "height_mobile": {
+                                    "unit": "px",
+                                    "size": 200,
+                                    "sizes": []
+                                },
+                                "object-fit": "cover",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "5",
+                                    "bottom": "5",
+                                    "left": "5",
+                                    "isLinked": true
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "f3084a9"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "ba781ab",
+            "settings": {
+                "structure": "20",
+                "background_background": "classic",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/busy-mover-making-notes-in-sketchpad.jpg",
+                    "id": 62,
+                    "alt": "Busy mover making notes in sketchpad",
+                    "source": "library"
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "padding": {
+                    "unit": "em",
+                    "top": "7",
+                    "right": "0",
+                    "bottom": "7",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "7",
+                    "right": "1",
+                    "bottom": "7",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "3",
+                    "right": "1",
+                    "bottom": "3",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "3a71b1a"
+                    }
+                ],
+                "__globals__": {
+                    "background_color": "globals\/colors?id=f4064cd"
+                }
+            },
+            "elements": [
+                {
+                    "id": "582b9e69",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 45,
+                        "_inline_size_tablet": 50,
+                        "background_background": "classic",
+                        "background_overlay_background": "classic",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "5",
+                            "right": "5",
+                            "bottom": "5",
+                            "left": "5",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "4",
+                            "right": "4",
+                            "bottom": "4",
+                            "left": "4",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "3",
+                            "right": "3",
+                            "bottom": "3",
+                            "left": "3",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "1099888"
+                            }
+                        ],
+                        "__globals__": {
+                            "background_overlay_color": "globals\/colors?id=dea41e4"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "382b17ce",
+                            "settings": {
+                                "title": "Plan Your Move Today",
+                                "header_size": "h4",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "e453d3e"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=a291686"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5462ee0d",
+                            "settings": {
+                                "title": "Discount Up to 40% Only for this Month.",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "053befa"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=a291686"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "132c67f1",
+                            "settings": {
+                                "width": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "text": "Divider",
+                                "weight": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "ce5dc1c"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "color": "globals\/colors?id=100efa4"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1c3b2728",
+                            "settings": {
+                                "text": "Contact us",
+                                "size": "md",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "de0f2fa"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "2ed44864",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 55,
+                        "_inline_size_tablet": 50,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "1099888"
+                            }
+                        ],
+                        "hide_mobile": "hidden-mobile"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "3da7ef8c",
+            "settings": {
+                "padding": {
+                    "unit": "em",
+                    "top": "7",
+                    "right": "0",
+                    "bottom": "7",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "3",
+                    "right": "1",
+                    "bottom": "3",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "5c56389"
+                    }
+                ]
+            },
+            "elements": [
+                {
+                    "id": "6795798c",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "6182b7d"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "345230a7",
+                            "settings": {
+                                "title": "Insight",
+                                "header_size": "h6",
+                                "align": "center",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "a6e3c60"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "79595654",
+                            "settings": {
+                                "title": "Moving Tips & Guide",
+                                "align": "center",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "5245790"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "396b2d13",
+                            "settings": {
+                                "width": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "align": "center",
+                                "text": "Divider",
+                                "weight": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "c01f629"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "color": "globals\/colors?id=3460580"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5aa49a84",
+                            "settings": {
+                                "classic_posts_per_page": 3,
+                                "classic_thumbnail_size_size": "full",
+                                "classic_item_ratio_mobile": {
+                                    "unit": "px",
+                                    "size": 0.66000000000000003108624468950438313186168670654296875,
+                                    "sizes": []
+                                },
+                                "classic_excerpt_length": 15,
+                                "classic_meta_data": [
+                                    "date"
+                                ],
+                                "classic_meta_separator": ".",
+                                "classic_show_read_more": "",
+                                "classic_read_more_text": "Read More \u00bb",
+                                "cards_meta_separator": "\u2022",
+                                "cards_read_more_text": "Read More \u00bb",
+                                "full_content_meta_separator": "\/\/\/",
+                                "classic_column_gap": {
+                                    "unit": "px",
+                                    "size": 35,
+                                    "sizes": []
+                                },
+                                "classic_box_border_radius": {
+                                    "unit": "px",
+                                    "size": 5,
+                                    "sizes": []
+                                },
+                                "classic_content_padding": {
+                                    "unit": "px",
+                                    "top": "35",
+                                    "right": "35",
+                                    "bottom": "35",
+                                    "left": "35",
+                                    "isLinked": true
+                                },
+                                "classic_box_shadow_box_shadow_type": "yes",
+                                "classic_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 30,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.1)"
+                                },
+                                "classic_image_spacing": {
+                                    "unit": "px",
+                                    "size": 21,
+                                    "sizes": []
+                                },
+                                "classic_title_spacing": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "pagination_page_limit": "5",
+                                "pagination_prev_label": "&laquo; Previous",
+                                "pagination_next_label": "Next &raquo;",
+                                "text": "Load More",
+                                "load_more_no_posts_custom_message": "No more posts to show",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "900ac40"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "classic_box_bg_color": "globals\/colors?id=a291686",
+                                    "classic_title_typography_typography": "globals\/typography?id=7044a64",
+                                    "classic_meta_typography_typography": "globals\/typography?id=112b6c4",
+                                    "classic_meta_color": "globals\/colors?id=100efa4",
+                                    "classic_excerpt_typography_typography": "globals\/typography?id=b2ce6af"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "posts",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_header_footer"
+    }
+}

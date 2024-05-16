@@ -1,0 +1,1089 @@
+{
+    "version": "0.4",
+    "title": "Gomo V1 &#8211; Footer",
+    "type": "footer",
+    "metadata": {
+        "template_type": "section-footer",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "elementor_library_type": "footer",
+        "elementor_pro_conditions": [
+            "include\/general"
+        ],
+        "additional_template_information": [
+            "This is a \"Footer\" template for Elementor Pro.",
+            "This template will display on: Entire Site."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "d3549bb",
+            "settings": {
+                "content_position": "middle",
+                "structure": "20",
+                "background_background": "classic",
+                "padding": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "0",
+                    "bottom": "2",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "c6e582e"
+                    }
+                ],
+                "__globals__": {
+                    "background_color": "globals\/colors?id=80299c3"
+                }
+            },
+            "elements": [
+                {
+                    "id": "1aca28cb",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 70,
+                        "padding": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "d6efe5a"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "49ad8e36",
+                            "settings": {
+                                "title": "Request Your Moving Quote Today.",
+                                "header_size": "h3",
+                                "align_mobile": "center",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "57dc0a4"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=a291686"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "429e2fbf",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 30,
+                        "padding": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "0",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": false
+                        },
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "d6efe5a"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "66b6e75",
+                            "settings": {
+                                "text": "Get a Quote",
+                                "align": "right",
+                                "align_mobile": "center",
+                                "size": "md",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "4cf77a2"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "670453af",
+            "settings": {
+                "background_background": "classic",
+                "padding": {
+                    "unit": "em",
+                    "top": "3",
+                    "right": "0",
+                    "bottom": "3",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "c1fcb8b"
+                    }
+                ],
+                "__globals__": {
+                    "background_color": "globals\/colors?id=f4064cd"
+                }
+            },
+            "elements": [
+                {
+                    "id": "4637843c",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "b7790cf"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "473551ed",
+                            "settings": {
+                                "structure": "40",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "839ae6e"
+                                    }
+                                ]
+                            },
+                            "elements": [
+                                {
+                                    "id": "7a2024a7",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": 40,
+                                        "_inline_size_tablet": 100,
+                                        "padding": {
+                                            "unit": "em",
+                                            "top": "2",
+                                            "right": "7",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": false
+                                        },
+                                        "padding_tablet": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "1dd648d"
+                                            }
+                                        ]
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5a477dde",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/Logo_gomo_w.png",
+                                                    "id": 50,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "image_size": "custom",
+                                                "image_custom_dimension": {
+                                                    "width": "",
+                                                    "height": "56"
+                                                },
+                                                "align": "left",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "d744d8a"
+                                                    }
+                                                ]
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "1bbac9d0",
+                                            "settings": {
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "a311fcf"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "text_color": "globals\/colors?id=a291686"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "24c39ec4",
+                                            "settings": {
+                                                "social_icon_list": [
+                                                    {
+                                                        "social_icon": {
+                                                            "value": "fab fa-facebook",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "_id": "78d8f09"
+                                                    },
+                                                    {
+                                                        "social_icon": {
+                                                            "value": "fab fa-instagram",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "_id": "a42373f"
+                                                    },
+                                                    {
+                                                        "social_icon": {
+                                                            "value": "fab fa-linkedin",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "_id": "dc44dd1"
+                                                    },
+                                                    {
+                                                        "social_icon": {
+                                                            "value": "fab fa-twitter",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "_id": "4843ff6"
+                                                    }
+                                                ],
+                                                "shape": "circle",
+                                                "align": "",
+                                                "icon_color": "custom",
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "hover_animation": "float",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "d28b4a9"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "icon_primary_color": "globals\/colors?id=100efa4",
+                                                    "icon_secondary_color": "globals\/colors?id=a291686",
+                                                    "hover_primary_color": "globals\/colors?id=3460580",
+                                                    "hover_secondary_color": "globals\/colors?id=a291686"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "social-icons",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "19054941",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": 20,
+                                        "_inline_size_tablet": 33,
+                                        "padding": {
+                                            "unit": "em",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "padding_tablet": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "e901d5d"
+                                            }
+                                        ]
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "656d700e",
+                                            "settings": {
+                                                "title": "Service",
+                                                "header_size": "h5",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "30a0f98"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=a291686"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "394f8dcc",
+                                            "settings": {
+                                                "icon_list": [
+                                                    {
+                                                        "text": "Long Distance Movers",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-circle",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "467fcf7",
+                                                        "link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        }
+                                                    },
+                                                    {
+                                                        "text": "Small Moves",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-circle",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "afb97d0"
+                                                    },
+                                                    {
+                                                        "text": "Local Moves",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-circle",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "2edf3eb"
+                                                    },
+                                                    {
+                                                        "text": "International Moves",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-circle",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "2cfeca3"
+                                                    },
+                                                    {
+                                                        "text": "Corporate Moves",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-circle",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "3171476"
+                                                    }
+                                                ],
+                                                "space_between": {
+                                                    "unit": "px",
+                                                    "size": 7,
+                                                    "sizes": []
+                                                },
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": 7,
+                                                    "sizes": []
+                                                },
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "3d28019"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "icon_color": "globals\/colors?id=100efa4",
+                                                    "text_color": "globals\/colors?id=a291686",
+                                                    "icon_typography_typography": "globals\/typography?id=69c152f",
+                                                    "text_color_hover": "globals\/colors?id=100efa4"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "428e77d3",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": 20,
+                                        "_inline_size_tablet": 33,
+                                        "padding": {
+                                            "unit": "em",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "padding_tablet": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "1dd648d"
+                                            }
+                                        ]
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7220fcdd",
+                                            "settings": {
+                                                "title": "Company",
+                                                "header_size": "h5",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "30a0f98"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=a291686"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "72a42f0",
+                                            "settings": {
+                                                "icon_list": [
+                                                    {
+                                                        "text": "About Us",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-circle",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "467fcf7",
+                                                        "link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        }
+                                                    },
+                                                    {
+                                                        "text": "Leadership",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-circle",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "e1a413c"
+                                                    },
+                                                    {
+                                                        "text": "Careers",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-circle",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "3db8b3f"
+                                                    },
+                                                    {
+                                                        "text": "Article & News",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-circle",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "9664648"
+                                                    },
+                                                    {
+                                                        "text": "Legal Notice",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-circle",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "201d65d"
+                                                    }
+                                                ],
+                                                "space_between": {
+                                                    "unit": "px",
+                                                    "size": 7,
+                                                    "sizes": []
+                                                },
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": 7,
+                                                    "sizes": []
+                                                },
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "3d28019"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "icon_color": "globals\/colors?id=100efa4",
+                                                    "text_color": "globals\/colors?id=a291686",
+                                                    "icon_typography_typography": "globals\/typography?id=69c152f",
+                                                    "text_color_hover": "globals\/colors?id=100efa4"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "1cc2680c",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": 20,
+                                        "_inline_size_tablet": 33,
+                                        "padding": {
+                                            "unit": "em",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": true
+                                        },
+                                        "padding_tablet": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "em",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "1dd648d"
+                                            }
+                                        ]
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6483231f",
+                                            "settings": {
+                                                "title": "Support",
+                                                "header_size": "h5",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "30a0f98"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=a291686"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "9166088",
+                                            "settings": {
+                                                "icon_list": [
+                                                    {
+                                                        "text": "Help Center",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-circle",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "467fcf7",
+                                                        "link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        }
+                                                    },
+                                                    {
+                                                        "text": "Ticket Support",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-circle",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "6b93be4"
+                                                    },
+                                                    {
+                                                        "text": "My Account",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-circle",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "a2209c9"
+                                                    },
+                                                    {
+                                                        "text": "Contact Us",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-circle",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "082df4b"
+                                                    }
+                                                ],
+                                                "space_between": {
+                                                    "unit": "px",
+                                                    "size": 7,
+                                                    "sizes": []
+                                                },
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": 7,
+                                                    "sizes": []
+                                                },
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "3d28019"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "icon_color": "globals\/colors?id=100efa4",
+                                                    "text_color": "globals\/colors?id=a291686",
+                                                    "icon_typography_typography": "globals\/typography?id=69c152f",
+                                                    "text_color_hover": "globals\/colors?id=100efa4"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "2da62129",
+            "settings": {
+                "content_position": "middle",
+                "structure": "20",
+                "background_background": "classic",
+                "padding": {
+                    "unit": "em",
+                    "top": "1",
+                    "right": "0",
+                    "bottom": "1",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "4cee1c3"
+                    }
+                ],
+                "__globals__": {
+                    "background_color": "globals\/colors?id=b8dc419"
+                }
+            },
+            "elements": [
+                {
+                    "id": "147571c",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "d2812da"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "464e222",
+                            "settings": {
+                                "title": "Copyright \u00a9 2021 gomo, All rights reserved. Powered by MoxCreative.",
+                                "header_size": "div",
+                                "align_tablet": "center",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "20c512f"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=112b6c4"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "337974d9",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "d2812da"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "39c3a91c",
+                            "settings": {
+                                "view": "inline",
+                                "icon_list": [
+                                    {
+                                        "text": "Term of use",
+                                        "selected_icon": {
+                                            "value": "fas fa-circle",
+                                            "library": "fa-solid"
+                                        },
+                                        "_id": "467fcf7",
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    {
+                                        "text": "Privacy policy",
+                                        "selected_icon": {
+                                            "value": "fas fa-circle",
+                                            "library": "fa-solid"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "dc94287"
+                                    },
+                                    {
+                                        "text": "Cookie policy",
+                                        "selected_icon": {
+                                            "value": "fas fa-circle",
+                                            "library": "fa-solid"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "4cc5d08"
+                                    },
+                                    {
+                                        "text": "Sitemap",
+                                        "selected_icon": {
+                                            "value": "fas fa-circle",
+                                            "library": "fa-solid"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "f2e7f1e"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "icon_align": "right",
+                                "icon_align_tablet": "center",
+                                "icon_color": "#7FCA35",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 7,
+                                    "sizes": []
+                                },
+                                "text_color_hover": "#7FCA35",
+                                "icon_typography_typography": "custom",
+                                "icon_typography_font_family": "Heebo",
+                                "icon_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "icon_typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 13,
+                                    "sizes": []
+                                },
+                                "icon_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                },
+                                "icon_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.600000000000000088817841970012523233890533447265625,
+                                    "sizes": []
+                                },
+                                "icon_typography_word_spacing": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "3d28019"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "icon_color": "globals\/colors?id=100efa4",
+                                    "text_color": "",
+                                    "icon_typography_typography": "globals\/typography?id=112b6c4",
+                                    "text_color_hover": "globals\/colors?id=100efa4"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

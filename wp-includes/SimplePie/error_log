@@ -1,0 +1,4 @@
+[27-Jan-2024 19:18:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/websit19/stihserasan.ac.id/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/stihserasan.ac.id/wp-includes/SimplePie/Core.php on line 53

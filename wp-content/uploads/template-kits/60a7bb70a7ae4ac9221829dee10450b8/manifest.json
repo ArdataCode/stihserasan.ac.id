@@ -1,0 +1,1177 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Gomo - Template kit for moving company",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/show.moxcreative.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/gomo\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/gomo\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Service",
+            "screenshot": "screenshots\/single-service.jpg",
+            "source": "templates\/single-service.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/gomo\/template-kit\/single-service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Moving Planner",
+            "screenshot": "screenshots\/moving-planner.jpg",
+            "source": "templates\/moving-planner.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/gomo\/template-kit\/moving-planner\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Claim",
+            "screenshot": "screenshots\/claim.jpg",
+            "source": "templates\/claim.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/gomo\/template-kit\/claim\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/gomo\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/gomo\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/gomo\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/gomo\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Gomo V1 - Error 404",
+            "screenshot": "screenshots\/gomo-v1-error-404.jpg",
+            "source": "templates\/gomo-v1-error-404.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/gomo\/?elementor_library=gomo-v1-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Gomo V1 - Archive",
+            "screenshot": "screenshots\/gomo-v1-archive.jpg",
+            "source": "templates\/gomo-v1-archive.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/gomo\/?elementor_library=gomo-v1-archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Gomo V1 - Single Post",
+            "screenshot": "screenshots\/gomo-v1-single-post.jpg",
+            "source": "templates\/gomo-v1-single-post.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/gomo\/?elementor_library=gomo-v1-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Gomo V1 - Footer",
+            "screenshot": "screenshots\/gomo-v1-footer.jpg",
+            "source": "templates\/gomo-v1-footer.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/gomo\/?elementor_library=gomo-v1-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Gomo V1 - Header",
+            "screenshot": "screenshots\/gomo-v1-header.jpg",
+            "source": "templates\/gomo-v1-header.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/gomo\/?elementor_library=gomo-v1-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Premium Addons for Elementor",
+            "version": "4.7.6",
+            "file": "premium-addons-for-elementor\/premium-addons-for-elementor.php",
+            "author": "Leap13"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.5.1",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Element Pack Lite - Addons for Elementor",
+            "version": "3.5.0",
+            "file": "bdthemes-element-pack-lite\/bdthemes-element-pack-lite.php",
+            "author": "BdThemes"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.5.2",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "family-moving-house.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/family-moving-house-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 125726,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WJDMVVV"
+        },
+        {
+            "filename": "two-movers-in-uniform-carrying-cardboard-boxes-in-modern-apartment-1.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/two-movers-in-uniform-carrying-cardboard-boxes-in-modern-apartment-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/moving-planner.json",
+                    "name": "Moving Planner"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 77930,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9RUY526"
+        },
+        {
+            "filename": "two-movers-in-uniform-transporting-cardboard-boxes-and-furniture-in-apartment.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/two-movers-in-uniform-transporting-cardboard-boxes-and-furniture-in-apartment-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 69962,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-M8M474T"
+        },
+        {
+            "filename": "map_bg.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/map_bg-800x449.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 34831,
+            "dimensions": [
+                1080,
+                606
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/square-dotted-world-map-and-earth-globes-Q676QDA"
+        },
+        {
+            "filename": "two-young-movers-in-blue-uniform-working-indoors-in-the-room.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/two-young-movers-in-blue-uniform-working-indoors-in-the-room-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/moving-planner.json",
+                    "name": "Moving Planner"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 97436,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GCER866"
+        },
+        {
+            "filename": "movers-wrapping-couch-with-roll-of-stretch-film-in-apartment.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/movers-wrapping-couch-with-roll-of-stretch-film-in-apartment-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 104954,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TUN33P7"
+        },
+        {
+            "filename": "trucking-blue-big-rig-nominated-.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/trucking-blue-big-rig-nominated--800x514.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 99126,
+            "dimensions": [
+                1080,
+                694
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-YUJDHKQ"
+        },
+        {
+            "filename": "foreman-giving-task-to-mover.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/foreman-giving-task-to-mover-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 91572,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5FTBLMV"
+        },
+        {
+            "filename": "mover-showing-glass-to-customer.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/mover-showing-glass-to-customer-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 142025,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-M6HN5RG"
+        },
+        {
+            "filename": "busy-mover-making-notes-in-sketchpad.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/busy-mover-making-notes-in-sketchpad-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/moving-planner.json",
+                    "name": "Moving Planner"
+                },
+                {
+                    "source": "templates\/claim.json",
+                    "name": "Claim"
+                }
+            ],
+            "filesize": 83932,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BW5GZJH"
+        },
+        {
+            "filename": "halftone-pattern-on-a-white-background.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/halftone-pattern-on-a-white-background-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/moving-planner.json",
+                    "name": "Moving Planner"
+                },
+                {
+                    "source": "templates\/claim.json",
+                    "name": "Claim"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 30086,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-8MHH55D"
+        },
+        {
+            "filename": "bg_memphis_1.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/bg_memphis_1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 908,
+            "dimensions": [
+                325,
+                325
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "portrait-of-happy-woman-with-curly-hair-at-park.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/portrait-of-happy-woman-with-curly-hair-at-park-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 132135,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-B847BPL"
+        },
+        {
+            "filename": "asgardia.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/asgardia-800x188.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 22134,
+            "dimensions": [
+                2558,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "code-lab.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/code-lab-800x211.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 18477,
+            "dimensions": [
+                2280,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "earth-2.0.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/earth-2.0-800x190.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 54681,
+            "dimensions": [
+                2520,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "fox-hub.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/fox-hub-800x187.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 15676,
+            "dimensions": [
+                2566,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "treva.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/treva-800x223.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 54430,
+            "dimensions": [
+                2155,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "velocity-9.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/velocity-9-800x206.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 38343,
+            "dimensions": [
+                2333,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "bg_header.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/bg_header-800x266.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/moving-planner.json",
+                    "name": "Moving Planner"
+                },
+                {
+                    "source": "templates\/claim.json",
+                    "name": "Claim"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/gomo-v1-error-404.json",
+                    "name": "Gomo V1 - Error 404"
+                },
+                {
+                    "source": "templates\/gomo-v1-archive.json",
+                    "name": "Gomo V1 - Archive"
+                }
+            ],
+            "filesize": 109459,
+            "dimensions": [
+                1280,
+                425
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/square-dotted-world-map-and-earth-globes-Q676QDA"
+        },
+        {
+            "filename": "img_1.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/img_1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 63016,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pleased-cheerful-redhaired-male-with-pleasant-smil-CCXAYZL"
+        },
+        {
+            "filename": "img_3.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/img_3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 70638,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-confident-male-entrepreneur-with-postive-smi-BDAU9DK"
+        },
+        {
+            "filename": "img_4.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/img_4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 71472,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/horizontal-shot-of-pleasant-looking-ginger-young-e-F9MBGAR"
+        },
+        {
+            "filename": "img_5.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/img_5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 111607,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/carefree-attractive-girl-with-pleasant-look-enjoys-4GXJZTE"
+        },
+        {
+            "filename": "img_6.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/img_6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 85457,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/joyful-freckled-teenager-wears-round-transparent-g-EPRUCGN"
+        },
+        {
+            "filename": "img_7.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/img_7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 45428,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/optimistic-positive-handsome-bearded-man-FXXXGY4"
+        },
+        {
+            "filename": "img_8.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/img_8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 64765,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/waist-up-shot-of-handsome-self-confident-cheerful--BUTM9PX"
+        },
+        {
+            "filename": "img_9.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/img_9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 95843,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-cheerful-european-female-with-satisfie-W73EUUE"
+        },
+        {
+            "filename": "two-movers-in-uniform-transporting-table-in-apartment.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/two-movers-in-uniform-transporting-table-in-apartment-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 84200,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XX5UH2D"
+        },
+        {
+            "filename": "diesel-truck-semi-tractor-trailer-on-the-highway.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/diesel-truck-semi-tractor-trailer-on-the-highway-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 117232,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-49Z7KWF"
+        },
+        {
+            "filename": "positive-movers-carrying-boxes.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/positive-movers-carrying-boxes-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 95144,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JQH2LDR"
+        },
+        {
+            "filename": "professional-manager-filling-report-while-working-with-mover.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/professional-manager-filling-report-while-working-with-mover-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/moving-planner.json",
+                    "name": "Moving Planner"
+                }
+            ],
+            "filesize": 117193,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PKY3AMB"
+        },
+        {
+            "filename": "document-to-sign-two-young-movers-in-blue-uniform-working-indoors-in-the-room.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/document-to-sign-two-young-movers-in-blue-uniform-working-indoors-in-the-room-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/moving-planner.json",
+                    "name": "Moving Planner"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 72806,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RUASQL7"
+        },
+        {
+            "filename": "mover-in-uniform-transporting-cardboard-boxes-on-hand-truck-in-apartment.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/mover-in-uniform-transporting-cardboard-boxes-on-hand-truck-in-apartment-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/moving-planner.json",
+                    "name": "Moving Planner"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 71111,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-X6KAQDN"
+        },
+        {
+            "filename": "sad-young-lady-unpacking-wrong-parcel-delivery-mistake.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/sad-young-lady-unpacking-wrong-parcel-delivery-mistake-800x524.jpg",
+            "templates": [
+                {
+                    "source": "templates\/claim.json",
+                    "name": "Claim"
+                }
+            ],
+            "filesize": 95332,
+            "dimensions": [
+                1080,
+                708
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HCNY3AS"
+        },
+        {
+            "filename": "displeased-man-calling-for-help-with-moving-house.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/displeased-man-calling-for-help-with-moving-house-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/claim.json",
+                    "name": "Claim"
+                }
+            ],
+            "filesize": 128593,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-F5XM8SK"
+        },
+        {
+            "filename": "handsome-movers-wrapping-cardboard-box-with-stretch-film-in-apartment.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/handsome-movers-wrapping-cardboard-box-with-stretch-film-in-apartment-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 83122,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-423J9HD"
+        },
+        {
+            "filename": "two-young-movers-in-blue-uniform-working-indoors-in-the-room-1.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/two-young-movers-in-blue-uniform-working-indoors-in-the-room-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 97818,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NSS5452"
+        },
+        {
+            "filename": "Logo_gomo_w.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/Logo_gomo_w.png",
+            "templates": [
+                {
+                    "source": "templates\/gomo-v1-footer.json",
+                    "name": "Gomo V1 - Footer"
+                }
+            ],
+            "filesize": 4809,
+            "dimensions": [
+                292,
+                109
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo_gomo.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/gomo\/wp-content\/uploads\/sites\/37\/2021\/12\/Logo_gomo.png",
+            "templates": [
+                {
+                    "source": "templates\/gomo-v1-header.json",
+                    "name": "Gomo V1 - Header"
+                }
+            ],
+            "filesize": 5896,
+            "dimensions": [
+                292,
+                109
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
